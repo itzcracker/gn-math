@@ -1,2 +1,3 @@
-# gn-math
-gn-math html5
+# GN-MATH
+gn-math for GravityOS
+
